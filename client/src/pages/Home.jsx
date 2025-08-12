@@ -16,6 +16,7 @@ const Home = () => {
       <Newsletter />
       <Footer />
       
+      
       </>
   )
 }
