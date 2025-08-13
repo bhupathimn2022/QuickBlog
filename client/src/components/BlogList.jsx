@@ -31,7 +31,7 @@
 
 // export default BlogList
 import React, { useState } from 'react'
-import { blog_data,blogCategories } from '../assets/assets'
+import { blog_data,blogCategories } from './assets/assets'
 import { motion, AnimatePresence } from 'framer-motion'
 import BlogCard from './BlogCard'
 

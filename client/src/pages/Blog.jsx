@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom'; 
-import { blog_data, comments_data, assets } from '../assets/assets';
+import { blog_data, comments_data, assets } from '../components/assets/assets';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';  // ✅ Footer import
 import Loader from '../components/Loader'; // ✅ Loader import
